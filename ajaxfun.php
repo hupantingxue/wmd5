@@ -116,10 +116,10 @@ function getMD5Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'md532';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('md5_32');
+	$db = $conn->selectDB('wdb32');
 	$collection = $db->selectCollection($table);
 	$result = $collection->findOne(array( 
-		'md32' => $str 
+		'passwd' => $str 
 	));
 	if (empty($result))
 	{
@@ -150,10 +150,10 @@ function getMMD5Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'mmd532';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('mmd5');
+	$db = $conn->selectDB('wdb32');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'mmd5' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -167,10 +167,10 @@ function getMMMD5Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'mmmd532';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('mmmd5');
+	$db = $conn->selectDB('wdb32');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'mmmd5' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -184,10 +184,10 @@ function getMD5Sha1Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'md5sha1';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('msha1');
+	$db = $conn->selectDB('wdb32');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'msha1' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -201,10 +201,10 @@ function getMD5Text16 ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'md516';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('md5_16');
+	$db = $conn->selectDB('wdb16');
 	$collection = $db->selectCollection($table);
 	$result = $collection->findOne(array( 
-		'md16' => $str 
+		'passwd' => $str 
 	));
 	if (empty($result))
 	{
@@ -231,10 +231,10 @@ function getMMD5Text16 ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'mmd516';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('mmd5_16');
+	$db = $conn->selectDB('wdb16');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'mmd5_16' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -248,10 +248,10 @@ function getMMMD5Text16 ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'mmmd516';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('mmmd5_16');
+	$db = $conn->selectDB('wdb16');
 	$collection = $db->selectCollection($ss);
 	return $collection->findOne(array( 
-		'mmmd5_16' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -264,10 +264,10 @@ function getMysqlText ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'mysql';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('mysql');
+	$db = $conn->selectDB('wdb16');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'mysql' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -280,10 +280,10 @@ function getMysql5Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'mysql5';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('mysql5');
+	$db = $conn->selectDB('wdb40');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'mysql5' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -296,10 +296,10 @@ function getNtlmText ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'ntlm';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('ntlm');
+	$db = $conn->selectDB('wdb32');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'ntlm' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -312,10 +312,10 @@ function getSha1Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'sha1';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('sha1');
+	$db = $conn->selectDB('wdb40');
 	$collection = $db->selectCollection($table);
 	$result = $collection->findOne(array( 
-		'sha1' => $str 
+		'passwd' => $str 
 	));
 	if (empty($result))
 	{
@@ -341,10 +341,10 @@ function getSSha1Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'ssha1';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('ssha1');
+	$db = $conn->selectDB('wdb40');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'ssha1' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -357,10 +357,10 @@ function getSha1MD5Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'sha1md5';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('sha1md5');
+	$db = $conn->selectDB('wdb40');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'sha1md5' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -373,10 +373,10 @@ function getSha256Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'sha256';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('sha256');
+	$db = $conn->selectDB('wdb64');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'sha256' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -389,10 +389,10 @@ function getSha384Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'sha384';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('sha384');
+	$db = $conn->selectDB('wdb96');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'sha384' => $str 
+		'passwd' => $str 
 	));
 }
 
@@ -405,10 +405,10 @@ function getSha512Text ($str, $table = '', &$type = '')
 	if (empty($str) || empty($table)) return false;
 	$type = 'sha512';
 	$conn = new MongoClient("mongodb://sj.wmd5.com:27010");
-	$db = $conn->selectDB('sha512');
+	$db = $conn->selectDB('wdb128');
 	$collection = $db->selectCollection($table);
 	return $collection->findOne(array( 
-		'sha512' => $str 
+		'passwd' => $str 
 	));
 }
 
