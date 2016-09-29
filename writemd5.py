@@ -179,92 +179,92 @@ if "__main__" == __name__:
                             type = pwd[:3]
                             info = json.loads(info)
                             #print "begin to save type: ", type
-                            save_data(conn.md5_32, type, info)
+                            save_data(conn.wdb32, type, info)
                             #print "end to save", info
                         elif "MD5_16" == item:
                             pwd = get_md516(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.md5_16, type, info)
+                            save_data(conn.wdb16, type, info)
                         elif "MMD5_16" == item:
                             pwd = get_md516(get_md516(line))
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.md5_16, type, info)
+                            save_data(conn.wdb16, type, info)
                         elif "MMD5" == item:
                             pwd = get_mmd5(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.mmd5, type, info)
+                            save_data(conn.wdb32, type, info)
                         elif "SHA1" == item:
                             pwd = get_sha1(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sha1, type, info)
+                            save_data(conn.wdb40, type, info)
                         elif "MMMD5" == item:
                             pwd = get_mmmd5(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.mmmd5, type, info)
+                            save_data(conn.wdb32, type, info)
                         elif "SQLMY" == item:
                             pwd = get_sqlmy(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sqlmy, type, info)
+                            save_data(conn.wdb16, type, info)
                         elif "SQLMY5" == item:
                             pwd = get_sqlmy5(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sqlmy5, type, info)
+                            save_data(conn.wdb40, type, info)
                         elif "NTLM" == item:
                             pwd = get_ntlm(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.ntlm, type, info)
+                            save_data(conn.wdb32, type, info)
                         elif "SHA256" == item:
                             pwd = get_sha256(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sha256, type, info)
+                            save_data(conn.wdb64, type, info)
                         elif "SHA384" == item:
                             pwd = get_sha384(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sha384, type, info)
+                            save_data(conn.wdb96, type, info)
                         elif "SHA512" == item:
                             pwd = get_sha512(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sha512, type, info)
+                            save_data(conn.wdb128, type, info)
                         elif "MSHA1" == item:
                             pwd = get_msha1(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.msha1, type, info)
+                            save_data(conn.wdb32, type, info)
                         elif "SHA1MD5" == item:
                             pwd = get_sha1md5(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.sha1md5, type, info)
+                            save_data(conn.wdb40, type, info)
                         elif "SSHA1" == item:
                             pwd = get_ssha1(line)
                             info = """{"text":"%s", "passwd":"%s"}""" % (line, pwd)
                             type = pwd[:3]
                             info = json.loads(info)
-                            save_data(conn.ssha1, type, info)
+                            save_data(conn.wdb40, type, info)
                         else:
                             pass
                     except Exception as e:
