@@ -5123,325 +5123,325 @@ def save_data(db, type, info):
             db.s9fe.insert(info)
         elif '9ff' == type:
             db.s9ff.insert(info)
-        elif '00' == type:
+        elif 'a00' == type:
             db.a00.insert(info)
-        elif '01' == type:
+        elif 'a01' == type:
             db.a01.insert(info)
-        elif '02' == type:
+        elif 'a02' == type:
             db.a02.insert(info)
-        elif '03' == type:
+        elif 'a03' == type:
             db.a03.insert(info)
-        elif '04' == type:
+        elif 'a04' == type:
             db.a04.insert(info)
-        elif '05' == type:
+        elif 'a05' == type:
             db.a05.insert(info)
-        elif '06' == type:
+        elif 'a06' == type:
             db.a06.insert(info)
-        elif '07' == type:
+        elif 'a07' == type:
             db.a07.insert(info)
-        elif '08' == type:
+        elif 'a08' == type:
             db.a08.insert(info)
-        elif '09' == type:
+        elif 'a09' == type:
             db.a09.insert(info)
-        elif '0a' == type:
+        elif 'a0a' == type:
             db.a0a.insert(info)
-        elif '0b' == type:
+        elif 'a0b' == type:
             db.a0b.insert(info)
-        elif '0c' == type:
+        elif 'a0c' == type:
             db.a0c.insert(info)
-        elif '0d' == type:
+        elif 'a0d' == type:
             db.a0d.insert(info)
-        elif '0e' == type:
+        elif 'a0e' == type:
             db.a0e.insert(info)
-        elif '0f' == type:
+        elif 'a0f' == type:
             db.a0f.insert(info)
-        elif '10' == type:
+        elif 'a10' == type:
             db.a10.insert(info)
-        elif '11' == type:
+        elif 'a11' == type:
             db.a11.insert(info)
-        elif '12' == type:
+        elif 'a12' == type:
             db.a12.insert(info)
-        elif '13' == type:
+        elif 'a13' == type:
             db.a13.insert(info)
-        elif '14' == type:
+        elif 'a14' == type:
             db.a14.insert(info)
-        elif '15' == type:
+        elif 'a15' == type:
             db.a15.insert(info)
-        elif '16' == type:
+        elif 'a16' == type:
             db.a16.insert(info)
-        elif '17' == type:
+        elif 'a17' == type:
             db.a17.insert(info)
-        elif '18' == type:
+        elif 'a18' == type:
             db.a18.insert(info)
-        elif '19' == type:
+        elif 'a19' == type:
             db.a19.insert(info)
-        elif '1a' == type:
+        elif 'a1a' == type:
             db.a1a.insert(info)
-        elif '1b' == type:
+        elif 'a1b' == type:
             db.a1b.insert(info)
-        elif '1c' == type:
+        elif 'a1c' == type:
             db.a1c.insert(info)
-        elif '1d' == type:
+        elif 'a1d' == type:
             db.a1d.insert(info)
-        elif '1e' == type:
+        elif 'a1e' == type:
             db.a1e.insert(info)
-        elif '1f' == type:
+        elif 'a1f' == type:
             db.a1f.insert(info)
-        elif '20' == type:
+        elif 'a20' == type:
             db.a20.insert(info)
-        elif '21' == type:
+        elif 'a21' == type:
             db.a21.insert(info)
-        elif '22' == type:
+        elif 'a22' == type:
             db.a22.insert(info)
-        elif '23' == type:
+        elif 'a23' == type:
             db.a23.insert(info)
-        elif '24' == type:
+        elif 'a24' == type:
             db.a24.insert(info)
-        elif '25' == type:
+        elif 'a25' == type:
             db.a25.insert(info)
-        elif '26' == type:
+        elif 'a26' == type:
             db.a26.insert(info)
-        elif '27' == type:
+        elif 'a27' == type:
             db.a27.insert(info)
-        elif '28' == type:
+        elif 'a28' == type:
             db.a28.insert(info)
-        elif '29' == type:
+        elif 'a29' == type:
             db.a29.insert(info)
-        elif '2a' == type:
+        elif 'a2a' == type:
             db.a2a.insert(info)
-        elif '2b' == type:
+        elif 'a2b' == type:
             db.a2b.insert(info)
-        elif '2c' == type:
+        elif 'a2c' == type:
             db.a2c.insert(info)
-        elif '2d' == type:
+        elif 'a2d' == type:
             db.a2d.insert(info)
-        elif '2e' == type:
+        elif 'a2e' == type:
             db.a2e.insert(info)
-        elif '2f' == type:
+        elif 'a2f' == type:
             db.a2f.insert(info)
-        elif '30' == type:
+        elif 'a30' == type:
             db.a30.insert(info)
-        elif '31' == type:
+        elif 'a31' == type:
             db.a31.insert(info)
-        elif '32' == type:
+        elif 'a32' == type:
             db.a32.insert(info)
-        elif '33' == type:
+        elif 'a33' == type:
             db.a33.insert(info)
-        elif '34' == type:
+        elif 'a34' == type:
             db.a34.insert(info)
-        elif '35' == type:
+        elif 'a35' == type:
             db.a35.insert(info)
-        elif '36' == type:
+        elif 'a36' == type:
             db.a36.insert(info)
-        elif '37' == type:
+        elif 'a37' == type:
             db.a37.insert(info)
-        elif '38' == type:
+        elif 'a38' == type:
             db.a38.insert(info)
-        elif '39' == type:
+        elif 'a39' == type:
             db.a39.insert(info)
-        elif '3a' == type:
+        elif 'a3a' == type:
             db.a3a.insert(info)
-        elif '3b' == type:
+        elif 'a3b' == type:
             db.a3b.insert(info)
-        elif '3c' == type:
+        elif 'a3c' == type:
             db.a3c.insert(info)
-        elif '3d' == type:
+        elif 'a3d' == type:
             db.a3d.insert(info)
-        elif '3e' == type:
+        elif 'a3e' == type:
             db.a3e.insert(info)
-        elif '3f' == type:
+        elif 'a3f' == type:
             db.a3f.insert(info)
-        elif '40' == type:
+        elif 'a40' == type:
             db.a40.insert(info)
-        elif '41' == type:
+        elif 'a41' == type:
             db.a41.insert(info)
-        elif '42' == type:
+        elif 'a42' == type:
             db.a42.insert(info)
-        elif '43' == type:
+        elif 'a43' == type:
             db.a43.insert(info)
-        elif '44' == type:
+        elif 'a44' == type:
             db.a44.insert(info)
-        elif '45' == type:
+        elif 'a45' == type:
             db.a45.insert(info)
-        elif '46' == type:
+        elif 'a46' == type:
             db.a46.insert(info)
-        elif '47' == type:
+        elif 'a47' == type:
             db.a47.insert(info)
-        elif '48' == type:
+        elif 'a48' == type:
             db.a48.insert(info)
-        elif '49' == type:
+        elif 'a49' == type:
             db.a49.insert(info)
-        elif '4a' == type:
+        elif 'a4a' == type:
             db.a4a.insert(info)
-        elif '4b' == type:
+        elif 'a4b' == type:
             db.a4b.insert(info)
-        elif '4c' == type:
+        elif 'a4c' == type:
             db.a4c.insert(info)
-        elif '4d' == type:
+        elif 'a4d' == type:
             db.a4d.insert(info)
-        elif '4e' == type:
+        elif 'a4e' == type:
             db.a4e.insert(info)
-        elif '4f' == type:
+        elif 'a4f' == type:
             db.a4f.insert(info)
-        elif '50' == type:
+        elif 'a50' == type:
             db.a50.insert(info)
-        elif '51' == type:
+        elif 'a51' == type:
             db.a51.insert(info)
-        elif '52' == type:
+        elif 'a52' == type:
             db.a52.insert(info)
-        elif '53' == type:
+        elif 'a53' == type:
             db.a53.insert(info)
-        elif '54' == type:
+        elif 'a54' == type:
             db.a54.insert(info)
-        elif '55' == type:
+        elif 'a55' == type:
             db.a55.insert(info)
-        elif '56' == type:
+        elif 'a56' == type:
             db.a56.insert(info)
-        elif '57' == type:
+        elif 'a57' == type:
             db.a57.insert(info)
-        elif '58' == type:
+        elif 'a58' == type:
             db.a58.insert(info)
-        elif '59' == type:
+        elif 'a59' == type:
             db.a59.insert(info)
-        elif '5a' == type:
+        elif 'a5a' == type:
             db.a5a.insert(info)
-        elif '5b' == type:
+        elif 'a5b' == type:
             db.a5b.insert(info)
-        elif '5c' == type:
+        elif 'a5c' == type:
             db.a5c.insert(info)
-        elif '5d' == type:
+        elif 'a5d' == type:
             db.a5d.insert(info)
-        elif '5e' == type:
+        elif 'a5e' == type:
             db.a5e.insert(info)
-        elif '5f' == type:
+        elif 'a5f' == type:
             db.a5f.insert(info)
-        elif '60' == type:
+        elif 'a60' == type:
             db.a60.insert(info)
-        elif '61' == type:
+        elif 'a61' == type:
             db.a61.insert(info)
-        elif '62' == type:
+        elif 'a62' == type:
             db.a62.insert(info)
-        elif '63' == type:
+        elif 'a63' == type:
             db.a63.insert(info)
-        elif '64' == type:
+        elif 'a64' == type:
             db.a64.insert(info)
-        elif '65' == type:
+        elif 'a65' == type:
             db.a65.insert(info)
-        elif '66' == type:
+        elif 'a66' == type:
             db.a66.insert(info)
-        elif '67' == type:
+        elif 'a67' == type:
             db.a67.insert(info)
-        elif '68' == type:
+        elif 'a68' == type:
             db.a68.insert(info)
-        elif '69' == type:
+        elif 'a69' == type:
             db.a69.insert(info)
-        elif '6a' == type:
+        elif 'a6a' == type:
             db.a6a.insert(info)
-        elif '6b' == type:
+        elif 'a6b' == type:
             db.a6b.insert(info)
-        elif '6c' == type:
+        elif 'a6c' == type:
             db.a6c.insert(info)
-        elif '6d' == type:
+        elif 'a6d' == type:
             db.a6d.insert(info)
-        elif '6e' == type:
+        elif 'a6e' == type:
             db.a6e.insert(info)
-        elif '6f' == type:
+        elif 'a6f' == type:
             db.a6f.insert(info)
-        elif '70' == type:
+        elif 'a70' == type:
             db.a70.insert(info)
-        elif '71' == type:
+        elif 'a71' == type:
             db.a71.insert(info)
-        elif '72' == type:
+        elif 'a72' == type:
             db.a72.insert(info)
-        elif '73' == type:
+        elif 'a73' == type:
             db.a73.insert(info)
-        elif '74' == type:
+        elif 'a74' == type:
             db.a74.insert(info)
-        elif '75' == type:
+        elif 'a75' == type:
             db.a75.insert(info)
-        elif '76' == type:
+        elif 'a76' == type:
             db.a76.insert(info)
-        elif '77' == type:
+        elif 'a77' == type:
             db.a77.insert(info)
-        elif '78' == type:
+        elif 'a78' == type:
             db.a78.insert(info)
-        elif '79' == type:
+        elif 'a79' == type:
             db.a79.insert(info)
-        elif '7a' == type:
+        elif 'a7a' == type:
             db.a7a.insert(info)
-        elif '7b' == type:
+        elif 'a7b' == type:
             db.a7b.insert(info)
-        elif '7c' == type:
+        elif 'a7c' == type:
             db.a7c.insert(info)
-        elif '7d' == type:
+        elif 'a7d' == type:
             db.a7d.insert(info)
-        elif '7e' == type:
+        elif 'a7e' == type:
             db.a7e.insert(info)
-        elif '7f' == type:
+        elif 'a7f' == type:
             db.a7f.insert(info)
-        elif '80' == type:
+        elif 'a80' == type:
             db.a80.insert(info)
-        elif '81' == type:
+        elif 'a81' == type:
             db.a81.insert(info)
-        elif '82' == type:
+        elif 'a82' == type:
             db.a82.insert(info)
-        elif '83' == type:
+        elif 'a83' == type:
             db.a83.insert(info)
-        elif '84' == type:
+        elif 'a84' == type:
             db.a84.insert(info)
-        elif '85' == type:
+        elif 'a85' == type:
             db.a85.insert(info)
-        elif '86' == type:
+        elif 'a86' == type:
             db.a86.insert(info)
-        elif '87' == type:
+        elif 'a87' == type:
             db.a87.insert(info)
-        elif '88' == type:
+        elif 'a88' == type:
             db.a88.insert(info)
-        elif '89' == type:
+        elif 'a89' == type:
             db.a89.insert(info)
-        elif '8a' == type:
+        elif 'a8a' == type:
             db.a8a.insert(info)
-        elif '8b' == type:
+        elif 'a8b' == type:
             db.a8b.insert(info)
-        elif '8c' == type:
+        elif 'a8c' == type:
             db.a8c.insert(info)
-        elif '8d' == type:
+        elif 'a8d' == type:
             db.a8d.insert(info)
-        elif '8e' == type:
+        elif 'a8e' == type:
             db.a8e.insert(info)
-        elif '8f' == type:
+        elif 'a8f' == type:
             db.a8f.insert(info)
-        elif '90' == type:
+        elif 'a90' == type:
             db.a90.insert(info)
-        elif '91' == type:
+        elif 'a91' == type:
             db.a91.insert(info)
-        elif '92' == type:
+        elif 'a92' == type:
             db.a92.insert(info)
-        elif '93' == type:
+        elif 'a93' == type:
             db.a93.insert(info)
-        elif '94' == type:
+        elif 'a94' == type:
             db.a94.insert(info)
-        elif '95' == type:
+        elif 'a95' == type:
             db.a95.insert(info)
-        elif '96' == type:
+        elif 'a96' == type:
             db.a96.insert(info)
-        elif '97' == type:
+        elif 'a97' == type:
             db.a97.insert(info)
-        elif '98' == type:
+        elif 'a98' == type:
             db.a98.insert(info)
-        elif '99' == type:
+        elif 'a99' == type:
             db.a99.insert(info)
-        elif '9a' == type:
+        elif 'a9a' == type:
             db.a9a.insert(info)
-        elif '9b' == type:
+        elif 'a9b' == type:
             db.a9b.insert(info)
-        elif '9c' == type:
+        elif 'a9c' == type:
             db.a9c.insert(info)
-        elif '9d' == type:
+        elif 'a9d' == type:
             db.a9d.insert(info)
-        elif '9e' == type:
+        elif 'a9e' == type:
             db.a9e.insert(info)
-        elif '9f' == type:
+        elif 'a9f' == type:
             db.a9f.insert(info)
         elif 'aa0' == type:
             db.aa0.insert(info)
@@ -5635,325 +5635,325 @@ def save_data(db, type, info):
             db.afe.insert(info)
         elif 'aff' == type:
             db.aff.insert(info)
-        elif '00' == type:
+        elif 'b00' == type:
             db.b00.insert(info)
-        elif '01' == type:
+        elif 'b01' == type:
             db.b01.insert(info)
-        elif '02' == type:
+        elif 'b02' == type:
             db.b02.insert(info)
-        elif '03' == type:
+        elif 'b03' == type:
             db.b03.insert(info)
-        elif '04' == type:
+        elif 'b04' == type:
             db.b04.insert(info)
-        elif '05' == type:
+        elif 'b05' == type:
             db.b05.insert(info)
-        elif '06' == type:
+        elif 'b06' == type:
             db.b06.insert(info)
-        elif '07' == type:
+        elif 'b07' == type:
             db.b07.insert(info)
-        elif '08' == type:
+        elif 'b08' == type:
             db.b08.insert(info)
-        elif '09' == type:
+        elif 'b09' == type:
             db.b09.insert(info)
-        elif '0a' == type:
+        elif 'b0a' == type:
             db.b0a.insert(info)
-        elif '0b' == type:
+        elif 'b0b' == type:
             db.b0b.insert(info)
-        elif '0c' == type:
+        elif 'b0c' == type:
             db.b0c.insert(info)
-        elif '0d' == type:
+        elif 'b0d' == type:
             db.b0d.insert(info)
-        elif '0e' == type:
+        elif 'b0e' == type:
             db.b0e.insert(info)
-        elif '0f' == type:
+        elif 'b0f' == type:
             db.b0f.insert(info)
-        elif '10' == type:
+        elif 'b10' == type:
             db.b10.insert(info)
-        elif '11' == type:
+        elif 'b11' == type:
             db.b11.insert(info)
-        elif '12' == type:
+        elif 'b12' == type:
             db.b12.insert(info)
-        elif '13' == type:
+        elif 'b13' == type:
             db.b13.insert(info)
-        elif '14' == type:
+        elif 'b14' == type:
             db.b14.insert(info)
-        elif '15' == type:
+        elif 'b15' == type:
             db.b15.insert(info)
-        elif '16' == type:
+        elif 'b16' == type:
             db.b16.insert(info)
-        elif '17' == type:
+        elif 'b17' == type:
             db.b17.insert(info)
-        elif '18' == type:
+        elif 'b18' == type:
             db.b18.insert(info)
-        elif '19' == type:
+        elif 'b19' == type:
             db.b19.insert(info)
-        elif '1a' == type:
+        elif 'b1a' == type:
             db.b1a.insert(info)
-        elif '1b' == type:
+        elif 'b1b' == type:
             db.b1b.insert(info)
-        elif '1c' == type:
+        elif 'b1c' == type:
             db.b1c.insert(info)
-        elif '1d' == type:
+        elif 'b1d' == type:
             db.b1d.insert(info)
-        elif '1e' == type:
+        elif 'b1e' == type:
             db.b1e.insert(info)
-        elif '1f' == type:
+        elif 'b1f' == type:
             db.b1f.insert(info)
-        elif '20' == type:
+        elif 'b20' == type:
             db.b20.insert(info)
-        elif '21' == type:
+        elif 'b21' == type:
             db.b21.insert(info)
-        elif '22' == type:
+        elif 'b22' == type:
             db.b22.insert(info)
-        elif '23' == type:
+        elif 'b23' == type:
             db.b23.insert(info)
-        elif '24' == type:
+        elif 'b24' == type:
             db.b24.insert(info)
-        elif '25' == type:
+        elif 'b25' == type:
             db.b25.insert(info)
-        elif '26' == type:
+        elif 'b26' == type:
             db.b26.insert(info)
-        elif '27' == type:
+        elif 'b27' == type:
             db.b27.insert(info)
-        elif '28' == type:
+        elif 'b28' == type:
             db.b28.insert(info)
-        elif '29' == type:
+        elif 'b29' == type:
             db.b29.insert(info)
-        elif '2a' == type:
+        elif 'b2a' == type:
             db.b2a.insert(info)
-        elif '2b' == type:
+        elif 'b2b' == type:
             db.b2b.insert(info)
-        elif '2c' == type:
+        elif 'b2c' == type:
             db.b2c.insert(info)
-        elif '2d' == type:
+        elif 'b2d' == type:
             db.b2d.insert(info)
-        elif '2e' == type:
+        elif 'b2e' == type:
             db.b2e.insert(info)
-        elif '2f' == type:
+        elif 'b2f' == type:
             db.b2f.insert(info)
-        elif '30' == type:
+        elif 'b30' == type:
             db.b30.insert(info)
-        elif '31' == type:
+        elif 'b31' == type:
             db.b31.insert(info)
-        elif '32' == type:
+        elif 'b32' == type:
             db.b32.insert(info)
-        elif '33' == type:
+        elif 'b33' == type:
             db.b33.insert(info)
-        elif '34' == type:
+        elif 'b34' == type:
             db.b34.insert(info)
-        elif '35' == type:
+        elif 'b35' == type:
             db.b35.insert(info)
-        elif '36' == type:
+        elif 'b36' == type:
             db.b36.insert(info)
-        elif '37' == type:
+        elif 'b37' == type:
             db.b37.insert(info)
-        elif '38' == type:
+        elif 'b38' == type:
             db.b38.insert(info)
-        elif '39' == type:
+        elif 'b39' == type:
             db.b39.insert(info)
-        elif '3a' == type:
+        elif 'b3a' == type:
             db.b3a.insert(info)
-        elif '3b' == type:
+        elif 'b3b' == type:
             db.b3b.insert(info)
-        elif '3c' == type:
+        elif 'b3c' == type:
             db.b3c.insert(info)
-        elif '3d' == type:
+        elif 'b3d' == type:
             db.b3d.insert(info)
-        elif '3e' == type:
+        elif 'b3e' == type:
             db.b3e.insert(info)
-        elif '3f' == type:
+        elif 'b3f' == type:
             db.b3f.insert(info)
-        elif '40' == type:
+        elif 'b40' == type:
             db.b40.insert(info)
-        elif '41' == type:
+        elif 'b41' == type:
             db.b41.insert(info)
-        elif '42' == type:
+        elif 'b42' == type:
             db.b42.insert(info)
-        elif '43' == type:
+        elif 'b43' == type:
             db.b43.insert(info)
-        elif '44' == type:
+        elif 'b44' == type:
             db.b44.insert(info)
-        elif '45' == type:
+        elif 'b45' == type:
             db.b45.insert(info)
-        elif '46' == type:
+        elif 'b46' == type:
             db.b46.insert(info)
-        elif '47' == type:
+        elif 'b47' == type:
             db.b47.insert(info)
-        elif '48' == type:
+        elif 'b48' == type:
             db.b48.insert(info)
-        elif '49' == type:
+        elif 'b49' == type:
             db.b49.insert(info)
-        elif '4a' == type:
+        elif 'b4a' == type:
             db.b4a.insert(info)
-        elif '4b' == type:
+        elif 'b4b' == type:
             db.b4b.insert(info)
-        elif '4c' == type:
+        elif 'b4c' == type:
             db.b4c.insert(info)
-        elif '4d' == type:
+        elif 'b4d' == type:
             db.b4d.insert(info)
-        elif '4e' == type:
+        elif 'b4e' == type:
             db.b4e.insert(info)
-        elif '4f' == type:
+        elif 'b4f' == type:
             db.b4f.insert(info)
-        elif '50' == type:
+        elif 'b50' == type:
             db.b50.insert(info)
-        elif '51' == type:
+        elif 'b51' == type:
             db.b51.insert(info)
-        elif '52' == type:
+        elif 'b52' == type:
             db.b52.insert(info)
-        elif '53' == type:
+        elif 'b53' == type:
             db.b53.insert(info)
-        elif '54' == type:
+        elif 'b54' == type:
             db.b54.insert(info)
-        elif '55' == type:
+        elif 'b55' == type:
             db.b55.insert(info)
-        elif '56' == type:
+        elif 'b56' == type:
             db.b56.insert(info)
-        elif '57' == type:
+        elif 'b57' == type:
             db.b57.insert(info)
-        elif '58' == type:
+        elif 'b58' == type:
             db.b58.insert(info)
-        elif '59' == type:
+        elif 'b59' == type:
             db.b59.insert(info)
-        elif '5a' == type:
+        elif 'b5a' == type:
             db.b5a.insert(info)
-        elif '5b' == type:
+        elif 'b5b' == type:
             db.b5b.insert(info)
-        elif '5c' == type:
+        elif 'b5c' == type:
             db.b5c.insert(info)
-        elif '5d' == type:
+        elif 'b5d' == type:
             db.b5d.insert(info)
-        elif '5e' == type:
+        elif 'b5e' == type:
             db.b5e.insert(info)
-        elif '5f' == type:
+        elif 'b5f' == type:
             db.b5f.insert(info)
-        elif '60' == type:
+        elif 'b60' == type:
             db.b60.insert(info)
-        elif '61' == type:
+        elif 'b61' == type:
             db.b61.insert(info)
-        elif '62' == type:
+        elif 'b62' == type:
             db.b62.insert(info)
-        elif '63' == type:
+        elif 'b63' == type:
             db.b63.insert(info)
-        elif '64' == type:
+        elif 'b64' == type:
             db.b64.insert(info)
-        elif '65' == type:
+        elif 'b65' == type:
             db.b65.insert(info)
-        elif '66' == type:
+        elif 'b66' == type:
             db.b66.insert(info)
-        elif '67' == type:
+        elif 'b67' == type:
             db.b67.insert(info)
-        elif '68' == type:
+        elif 'b68' == type:
             db.b68.insert(info)
-        elif '69' == type:
+        elif 'b69' == type:
             db.b69.insert(info)
-        elif '6a' == type:
+        elif 'b6a' == type:
             db.b6a.insert(info)
-        elif '6b' == type:
+        elif 'b6b' == type:
             db.b6b.insert(info)
-        elif '6c' == type:
+        elif 'b6c' == type:
             db.b6c.insert(info)
-        elif '6d' == type:
+        elif 'b6d' == type:
             db.b6d.insert(info)
-        elif '6e' == type:
+        elif 'b6e' == type:
             db.b6e.insert(info)
-        elif '6f' == type:
+        elif 'b6f' == type:
             db.b6f.insert(info)
-        elif '70' == type:
+        elif 'b70' == type:
             db.b70.insert(info)
-        elif '71' == type:
+        elif 'b71' == type:
             db.b71.insert(info)
-        elif '72' == type:
+        elif 'b72' == type:
             db.b72.insert(info)
-        elif '73' == type:
+        elif 'b73' == type:
             db.b73.insert(info)
-        elif '74' == type:
+        elif 'b74' == type:
             db.b74.insert(info)
-        elif '75' == type:
+        elif 'b75' == type:
             db.b75.insert(info)
-        elif '76' == type:
+        elif 'b76' == type:
             db.b76.insert(info)
-        elif '77' == type:
+        elif 'b77' == type:
             db.b77.insert(info)
-        elif '78' == type:
+        elif 'b78' == type:
             db.b78.insert(info)
-        elif '79' == type:
+        elif 'b79' == type:
             db.b79.insert(info)
-        elif '7a' == type:
+        elif 'b7a' == type:
             db.b7a.insert(info)
-        elif '7b' == type:
+        elif 'b7b' == type:
             db.b7b.insert(info)
-        elif '7c' == type:
+        elif 'b7c' == type:
             db.b7c.insert(info)
-        elif '7d' == type:
+        elif 'b7d' == type:
             db.b7d.insert(info)
-        elif '7e' == type:
+        elif 'b7e' == type:
             db.b7e.insert(info)
-        elif '7f' == type:
+        elif 'b7f' == type:
             db.b7f.insert(info)
-        elif '80' == type:
+        elif 'b80' == type:
             db.b80.insert(info)
-        elif '81' == type:
+        elif 'b81' == type:
             db.b81.insert(info)
-        elif '82' == type:
+        elif 'b82' == type:
             db.b82.insert(info)
-        elif '83' == type:
+        elif 'b83' == type:
             db.b83.insert(info)
-        elif '84' == type:
+        elif 'b84' == type:
             db.b84.insert(info)
-        elif '85' == type:
+        elif 'b85' == type:
             db.b85.insert(info)
-        elif '86' == type:
+        elif 'b86' == type:
             db.b86.insert(info)
-        elif '87' == type:
+        elif 'b87' == type:
             db.b87.insert(info)
-        elif '88' == type:
+        elif 'b88' == type:
             db.b88.insert(info)
-        elif '89' == type:
+        elif 'b89' == type:
             db.b89.insert(info)
-        elif '8a' == type:
+        elif 'b8a' == type:
             db.b8a.insert(info)
-        elif '8b' == type:
+        elif 'b8b' == type:
             db.b8b.insert(info)
-        elif '8c' == type:
+        elif 'b8c' == type:
             db.b8c.insert(info)
-        elif '8d' == type:
+        elif 'b8d' == type:
             db.b8d.insert(info)
-        elif '8e' == type:
+        elif 'b8e' == type:
             db.b8e.insert(info)
-        elif '8f' == type:
+        elif 'b8f' == type:
             db.b8f.insert(info)
-        elif '90' == type:
+        elif 'b90' == type:
             db.b90.insert(info)
-        elif '91' == type:
+        elif 'b91' == type:
             db.b91.insert(info)
-        elif '92' == type:
+        elif 'b92' == type:
             db.b92.insert(info)
-        elif '93' == type:
+        elif 'b93' == type:
             db.b93.insert(info)
-        elif '94' == type:
+        elif 'b94' == type:
             db.b94.insert(info)
-        elif '95' == type:
+        elif 'b95' == type:
             db.b95.insert(info)
-        elif '96' == type:
+        elif 'b96' == type:
             db.b96.insert(info)
-        elif '97' == type:
+        elif 'b97' == type:
             db.b97.insert(info)
-        elif '98' == type:
+        elif 'b98' == type:
             db.b98.insert(info)
-        elif '99' == type:
+        elif 'b99' == type:
             db.b99.insert(info)
-        elif '9a' == type:
+        elif 'b9a' == type:
             db.b9a.insert(info)
-        elif '9b' == type:
+        elif 'b9b' == type:
             db.b9b.insert(info)
-        elif '9c' == type:
+        elif 'b9c' == type:
             db.b9c.insert(info)
-        elif '9d' == type:
+        elif 'b9d' == type:
             db.b9d.insert(info)
-        elif '9e' == type:
+        elif 'b9e' == type:
             db.b9e.insert(info)
-        elif '9f' == type:
+        elif 'b9f' == type:
             db.b9f.insert(info)
         elif 'ba0' == type:
             db.ba0.insert(info)
@@ -6147,325 +6147,325 @@ def save_data(db, type, info):
             db.bfe.insert(info)
         elif 'bff' == type:
             db.bff.insert(info)
-        elif '00' == type:
+        elif 'c00' == type:
             db.c00.insert(info)
-        elif '01' == type:
+        elif 'c01' == type:
             db.c01.insert(info)
-        elif '02' == type:
+        elif 'c02' == type:
             db.c02.insert(info)
-        elif '03' == type:
+        elif 'c03' == type:
             db.c03.insert(info)
-        elif '04' == type:
+        elif 'c04' == type:
             db.c04.insert(info)
-        elif '05' == type:
+        elif 'c05' == type:
             db.c05.insert(info)
-        elif '06' == type:
+        elif 'c06' == type:
             db.c06.insert(info)
-        elif '07' == type:
+        elif 'c07' == type:
             db.c07.insert(info)
-        elif '08' == type:
+        elif 'c08' == type:
             db.c08.insert(info)
-        elif '09' == type:
+        elif 'c09' == type:
             db.c09.insert(info)
-        elif '0a' == type:
+        elif 'c0a' == type:
             db.c0a.insert(info)
-        elif '0b' == type:
+        elif 'c0b' == type:
             db.c0b.insert(info)
-        elif '0c' == type:
+        elif 'c0c' == type:
             db.c0c.insert(info)
-        elif '0d' == type:
+        elif 'c0d' == type:
             db.c0d.insert(info)
-        elif '0e' == type:
+        elif 'c0e' == type:
             db.c0e.insert(info)
-        elif '0f' == type:
+        elif 'c0f' == type:
             db.c0f.insert(info)
-        elif '10' == type:
+        elif 'c10' == type:
             db.c10.insert(info)
-        elif '11' == type:
+        elif 'c11' == type:
             db.c11.insert(info)
-        elif '12' == type:
+        elif 'c12' == type:
             db.c12.insert(info)
-        elif '13' == type:
+        elif 'c13' == type:
             db.c13.insert(info)
-        elif '14' == type:
+        elif 'c14' == type:
             db.c14.insert(info)
-        elif '15' == type:
+        elif 'c15' == type:
             db.c15.insert(info)
-        elif '16' == type:
+        elif 'c16' == type:
             db.c16.insert(info)
-        elif '17' == type:
+        elif 'c17' == type:
             db.c17.insert(info)
-        elif '18' == type:
+        elif 'c18' == type:
             db.c18.insert(info)
-        elif '19' == type:
+        elif 'c19' == type:
             db.c19.insert(info)
-        elif '1a' == type:
+        elif 'c1a' == type:
             db.c1a.insert(info)
-        elif '1b' == type:
+        elif 'c1b' == type:
             db.c1b.insert(info)
-        elif '1c' == type:
+        elif 'c1c' == type:
             db.c1c.insert(info)
-        elif '1d' == type:
+        elif 'c1d' == type:
             db.c1d.insert(info)
-        elif '1e' == type:
+        elif 'c1e' == type:
             db.c1e.insert(info)
-        elif '1f' == type:
+        elif 'c1f' == type:
             db.c1f.insert(info)
-        elif '20' == type:
+        elif 'c20' == type:
             db.c20.insert(info)
-        elif '21' == type:
+        elif 'c21' == type:
             db.c21.insert(info)
-        elif '22' == type:
+        elif 'c22' == type:
             db.c22.insert(info)
-        elif '23' == type:
+        elif 'c23' == type:
             db.c23.insert(info)
-        elif '24' == type:
+        elif 'c24' == type:
             db.c24.insert(info)
-        elif '25' == type:
+        elif 'c25' == type:
             db.c25.insert(info)
-        elif '26' == type:
+        elif 'c26' == type:
             db.c26.insert(info)
-        elif '27' == type:
+        elif 'c27' == type:
             db.c27.insert(info)
-        elif '28' == type:
+        elif 'c28' == type:
             db.c28.insert(info)
-        elif '29' == type:
+        elif 'c29' == type:
             db.c29.insert(info)
-        elif '2a' == type:
+        elif 'c2a' == type:
             db.c2a.insert(info)
-        elif '2b' == type:
+        elif 'c2b' == type:
             db.c2b.insert(info)
-        elif '2c' == type:
+        elif 'c2c' == type:
             db.c2c.insert(info)
-        elif '2d' == type:
+        elif 'c2d' == type:
             db.c2d.insert(info)
-        elif '2e' == type:
+        elif 'c2e' == type:
             db.c2e.insert(info)
-        elif '2f' == type:
+        elif 'c2f' == type:
             db.c2f.insert(info)
-        elif '30' == type:
+        elif 'c30' == type:
             db.c30.insert(info)
-        elif '31' == type:
+        elif 'c31' == type:
             db.c31.insert(info)
-        elif '32' == type:
+        elif 'c32' == type:
             db.c32.insert(info)
-        elif '33' == type:
+        elif 'c33' == type:
             db.c33.insert(info)
-        elif '34' == type:
+        elif 'c34' == type:
             db.c34.insert(info)
-        elif '35' == type:
+        elif 'c35' == type:
             db.c35.insert(info)
-        elif '36' == type:
+        elif 'c36' == type:
             db.c36.insert(info)
-        elif '37' == type:
+        elif 'c37' == type:
             db.c37.insert(info)
-        elif '38' == type:
+        elif 'c38' == type:
             db.c38.insert(info)
-        elif '39' == type:
+        elif 'c39' == type:
             db.c39.insert(info)
-        elif '3a' == type:
+        elif 'c3a' == type:
             db.c3a.insert(info)
-        elif '3b' == type:
+        elif 'c3b' == type:
             db.c3b.insert(info)
-        elif '3c' == type:
+        elif 'c3c' == type:
             db.c3c.insert(info)
-        elif '3d' == type:
+        elif 'c3d' == type:
             db.c3d.insert(info)
-        elif '3e' == type:
+        elif 'c3e' == type:
             db.c3e.insert(info)
-        elif '3f' == type:
+        elif 'c3f' == type:
             db.c3f.insert(info)
-        elif '40' == type:
+        elif 'c40' == type:
             db.c40.insert(info)
-        elif '41' == type:
+        elif 'c41' == type:
             db.c41.insert(info)
-        elif '42' == type:
+        elif 'c42' == type:
             db.c42.insert(info)
-        elif '43' == type:
+        elif 'c43' == type:
             db.c43.insert(info)
-        elif '44' == type:
+        elif 'c44' == type:
             db.c44.insert(info)
-        elif '45' == type:
+        elif 'c45' == type:
             db.c45.insert(info)
-        elif '46' == type:
+        elif 'c46' == type:
             db.c46.insert(info)
-        elif '47' == type:
+        elif 'c47' == type:
             db.c47.insert(info)
-        elif '48' == type:
+        elif 'c48' == type:
             db.c48.insert(info)
-        elif '49' == type:
+        elif 'c49' == type:
             db.c49.insert(info)
-        elif '4a' == type:
+        elif 'c4a' == type:
             db.c4a.insert(info)
-        elif '4b' == type:
+        elif 'c4b' == type:
             db.c4b.insert(info)
-        elif '4c' == type:
+        elif 'c4c' == type:
             db.c4c.insert(info)
-        elif '4d' == type:
+        elif 'c4d' == type:
             db.c4d.insert(info)
-        elif '4e' == type:
+        elif 'c4e' == type:
             db.c4e.insert(info)
-        elif '4f' == type:
+        elif 'c4f' == type:
             db.c4f.insert(info)
-        elif '50' == type:
+        elif 'c50' == type:
             db.c50.insert(info)
-        elif '51' == type:
+        elif 'c51' == type:
             db.c51.insert(info)
-        elif '52' == type:
+        elif 'c52' == type:
             db.c52.insert(info)
-        elif '53' == type:
+        elif 'c53' == type:
             db.c53.insert(info)
-        elif '54' == type:
+        elif 'c54' == type:
             db.c54.insert(info)
-        elif '55' == type:
+        elif 'c55' == type:
             db.c55.insert(info)
-        elif '56' == type:
+        elif 'c56' == type:
             db.c56.insert(info)
-        elif '57' == type:
+        elif 'c57' == type:
             db.c57.insert(info)
-        elif '58' == type:
+        elif 'c58' == type:
             db.c58.insert(info)
-        elif '59' == type:
+        elif 'c59' == type:
             db.c59.insert(info)
-        elif '5a' == type:
+        elif 'c5a' == type:
             db.c5a.insert(info)
-        elif '5b' == type:
+        elif 'c5b' == type:
             db.c5b.insert(info)
-        elif '5c' == type:
+        elif 'c5c' == type:
             db.c5c.insert(info)
-        elif '5d' == type:
+        elif 'c5d' == type:
             db.c5d.insert(info)
-        elif '5e' == type:
+        elif 'c5e' == type:
             db.c5e.insert(info)
-        elif '5f' == type:
+        elif 'c5f' == type:
             db.c5f.insert(info)
-        elif '60' == type:
+        elif 'c60' == type:
             db.c60.insert(info)
-        elif '61' == type:
+        elif 'c61' == type:
             db.c61.insert(info)
-        elif '62' == type:
+        elif 'c62' == type:
             db.c62.insert(info)
-        elif '63' == type:
+        elif 'c63' == type:
             db.c63.insert(info)
-        elif '64' == type:
+        elif 'c64' == type:
             db.c64.insert(info)
-        elif '65' == type:
+        elif 'c65' == type:
             db.c65.insert(info)
-        elif '66' == type:
+        elif 'c66' == type:
             db.c66.insert(info)
-        elif '67' == type:
+        elif 'c67' == type:
             db.c67.insert(info)
-        elif '68' == type:
+        elif 'c68' == type:
             db.c68.insert(info)
-        elif '69' == type:
+        elif 'c69' == type:
             db.c69.insert(info)
-        elif '6a' == type:
+        elif 'c6a' == type:
             db.c6a.insert(info)
-        elif '6b' == type:
+        elif 'c6b' == type:
             db.c6b.insert(info)
-        elif '6c' == type:
+        elif 'c6c' == type:
             db.c6c.insert(info)
-        elif '6d' == type:
+        elif 'c6d' == type:
             db.c6d.insert(info)
-        elif '6e' == type:
+        elif 'c6e' == type:
             db.c6e.insert(info)
-        elif '6f' == type:
+        elif 'c6f' == type:
             db.c6f.insert(info)
-        elif '70' == type:
+        elif 'c70' == type:
             db.c70.insert(info)
-        elif '71' == type:
+        elif 'c71' == type:
             db.c71.insert(info)
-        elif '72' == type:
+        elif 'c72' == type:
             db.c72.insert(info)
-        elif '73' == type:
+        elif 'c73' == type:
             db.c73.insert(info)
-        elif '74' == type:
+        elif 'c74' == type:
             db.c74.insert(info)
-        elif '75' == type:
+        elif 'c75' == type:
             db.c75.insert(info)
-        elif '76' == type:
+        elif 'c76' == type:
             db.c76.insert(info)
-        elif '77' == type:
+        elif 'c77' == type:
             db.c77.insert(info)
-        elif '78' == type:
+        elif 'c78' == type:
             db.c78.insert(info)
-        elif '79' == type:
+        elif 'c79' == type:
             db.c79.insert(info)
-        elif '7a' == type:
+        elif 'c7a' == type:
             db.c7a.insert(info)
-        elif '7b' == type:
+        elif 'c7b' == type:
             db.c7b.insert(info)
-        elif '7c' == type:
+        elif 'c7c' == type:
             db.c7c.insert(info)
-        elif '7d' == type:
+        elif 'c7d' == type:
             db.c7d.insert(info)
-        elif '7e' == type:
+        elif 'c7e' == type:
             db.c7e.insert(info)
-        elif '7f' == type:
+        elif 'c7f' == type:
             db.c7f.insert(info)
-        elif '80' == type:
+        elif 'c80' == type:
             db.c80.insert(info)
-        elif '81' == type:
+        elif 'c81' == type:
             db.c81.insert(info)
-        elif '82' == type:
+        elif 'c82' == type:
             db.c82.insert(info)
-        elif '83' == type:
+        elif 'c83' == type:
             db.c83.insert(info)
-        elif '84' == type:
+        elif 'c84' == type:
             db.c84.insert(info)
-        elif '85' == type:
+        elif 'c85' == type:
             db.c85.insert(info)
-        elif '86' == type:
+        elif 'c86' == type:
             db.c86.insert(info)
-        elif '87' == type:
+        elif 'c87' == type:
             db.c87.insert(info)
-        elif '88' == type:
+        elif 'c88' == type:
             db.c88.insert(info)
-        elif '89' == type:
+        elif 'c89' == type:
             db.c89.insert(info)
-        elif '8a' == type:
+        elif 'c8a' == type:
             db.c8a.insert(info)
-        elif '8b' == type:
+        elif 'c8b' == type:
             db.c8b.insert(info)
-        elif '8c' == type:
+        elif 'c8c' == type:
             db.c8c.insert(info)
-        elif '8d' == type:
+        elif 'c8d' == type:
             db.c8d.insert(info)
-        elif '8e' == type:
+        elif 'c8e' == type:
             db.c8e.insert(info)
-        elif '8f' == type:
+        elif 'c8f' == type:
             db.c8f.insert(info)
-        elif '90' == type:
+        elif 'c90' == type:
             db.c90.insert(info)
-        elif '91' == type:
+        elif 'c91' == type:
             db.c91.insert(info)
-        elif '92' == type:
+        elif 'c92' == type:
             db.c92.insert(info)
-        elif '93' == type:
+        elif 'c93' == type:
             db.c93.insert(info)
-        elif '94' == type:
+        elif 'c94' == type:
             db.c94.insert(info)
-        elif '95' == type:
+        elif 'c95' == type:
             db.c95.insert(info)
-        elif '96' == type:
+        elif 'c96' == type:
             db.c96.insert(info)
-        elif '97' == type:
+        elif 'c97' == type:
             db.c97.insert(info)
-        elif '98' == type:
+        elif 'c98' == type:
             db.c98.insert(info)
-        elif '99' == type:
+        elif 'c99' == type:
             db.c99.insert(info)
-        elif '9a' == type:
+        elif 'c9a' == type:
             db.c9a.insert(info)
-        elif '9b' == type:
+        elif 'c9b' == type:
             db.c9b.insert(info)
-        elif '9c' == type:
+        elif 'c9c' == type:
             db.c9c.insert(info)
-        elif '9d' == type:
+        elif 'c9d' == type:
             db.c9d.insert(info)
-        elif '9e' == type:
+        elif 'c9e' == type:
             db.c9e.insert(info)
-        elif '9f' == type:
+        elif 'c9f' == type:
             db.c9f.insert(info)
         elif 'ca0' == type:
             db.ca0.insert(info)
@@ -6659,325 +6659,325 @@ def save_data(db, type, info):
             db.cfe.insert(info)
         elif 'cff' == type:
             db.cff.insert(info)
-        elif '00' == type:
+        elif 'd00' == type:
             db.d00.insert(info)
-        elif '01' == type:
+        elif 'd01' == type:
             db.d01.insert(info)
-        elif '02' == type:
+        elif 'd02' == type:
             db.d02.insert(info)
-        elif '03' == type:
+        elif 'd03' == type:
             db.d03.insert(info)
-        elif '04' == type:
+        elif 'd04' == type:
             db.d04.insert(info)
-        elif '05' == type:
+        elif 'd05' == type:
             db.d05.insert(info)
-        elif '06' == type:
+        elif 'd06' == type:
             db.d06.insert(info)
-        elif '07' == type:
+        elif 'd07' == type:
             db.d07.insert(info)
-        elif '08' == type:
+        elif 'd08' == type:
             db.d08.insert(info)
-        elif '09' == type:
+        elif 'd09' == type:
             db.d09.insert(info)
-        elif '0a' == type:
+        elif 'd0a' == type:
             db.d0a.insert(info)
-        elif '0b' == type:
+        elif 'd0b' == type:
             db.d0b.insert(info)
-        elif '0c' == type:
+        elif 'd0c' == type:
             db.d0c.insert(info)
-        elif '0d' == type:
+        elif 'd0d' == type:
             db.d0d.insert(info)
-        elif '0e' == type:
+        elif 'd0e' == type:
             db.d0e.insert(info)
-        elif '0f' == type:
+        elif 'd0f' == type:
             db.d0f.insert(info)
-        elif '10' == type:
+        elif 'd10' == type:
             db.d10.insert(info)
-        elif '11' == type:
+        elif 'd11' == type:
             db.d11.insert(info)
-        elif '12' == type:
+        elif 'd12' == type:
             db.d12.insert(info)
-        elif '13' == type:
+        elif 'd13' == type:
             db.d13.insert(info)
-        elif '14' == type:
+        elif 'd14' == type:
             db.d14.insert(info)
-        elif '15' == type:
+        elif 'd15' == type:
             db.d15.insert(info)
-        elif '16' == type:
+        elif 'd16' == type:
             db.d16.insert(info)
-        elif '17' == type:
+        elif 'd17' == type:
             db.d17.insert(info)
-        elif '18' == type:
+        elif 'd18' == type:
             db.d18.insert(info)
-        elif '19' == type:
+        elif 'd19' == type:
             db.d19.insert(info)
-        elif '1a' == type:
+        elif 'd1a' == type:
             db.d1a.insert(info)
-        elif '1b' == type:
+        elif 'd1b' == type:
             db.d1b.insert(info)
-        elif '1c' == type:
+        elif 'd1c' == type:
             db.d1c.insert(info)
-        elif '1d' == type:
+        elif 'd1d' == type:
             db.d1d.insert(info)
-        elif '1e' == type:
+        elif 'd1e' == type:
             db.d1e.insert(info)
-        elif '1f' == type:
+        elif 'd1f' == type:
             db.d1f.insert(info)
-        elif '20' == type:
+        elif 'd20' == type:
             db.d20.insert(info)
-        elif '21' == type:
+        elif 'd21' == type:
             db.d21.insert(info)
-        elif '22' == type:
+        elif 'd22' == type:
             db.d22.insert(info)
-        elif '23' == type:
+        elif 'd23' == type:
             db.d23.insert(info)
-        elif '24' == type:
+        elif 'd24' == type:
             db.d24.insert(info)
-        elif '25' == type:
+        elif 'd25' == type:
             db.d25.insert(info)
-        elif '26' == type:
+        elif 'd26' == type:
             db.d26.insert(info)
-        elif '27' == type:
+        elif 'd27' == type:
             db.d27.insert(info)
-        elif '28' == type:
+        elif 'd28' == type:
             db.d28.insert(info)
-        elif '29' == type:
+        elif 'd29' == type:
             db.d29.insert(info)
-        elif '2a' == type:
+        elif 'd2a' == type:
             db.d2a.insert(info)
-        elif '2b' == type:
+        elif 'd2b' == type:
             db.d2b.insert(info)
-        elif '2c' == type:
+        elif 'd2c' == type:
             db.d2c.insert(info)
-        elif '2d' == type:
+        elif 'd2d' == type:
             db.d2d.insert(info)
-        elif '2e' == type:
+        elif 'd2e' == type:
             db.d2e.insert(info)
-        elif '2f' == type:
+        elif 'd2f' == type:
             db.d2f.insert(info)
-        elif '30' == type:
+        elif 'd30' == type:
             db.d30.insert(info)
-        elif '31' == type:
+        elif 'd31' == type:
             db.d31.insert(info)
-        elif '32' == type:
+        elif 'd32' == type:
             db.d32.insert(info)
-        elif '33' == type:
+        elif 'd33' == type:
             db.d33.insert(info)
-        elif '34' == type:
+        elif 'd34' == type:
             db.d34.insert(info)
-        elif '35' == type:
+        elif 'd35' == type:
             db.d35.insert(info)
-        elif '36' == type:
+        elif 'd36' == type:
             db.d36.insert(info)
-        elif '37' == type:
+        elif 'd37' == type:
             db.d37.insert(info)
-        elif '38' == type:
+        elif 'd38' == type:
             db.d38.insert(info)
-        elif '39' == type:
+        elif 'd39' == type:
             db.d39.insert(info)
-        elif '3a' == type:
+        elif 'd3a' == type:
             db.d3a.insert(info)
-        elif '3b' == type:
+        elif 'd3b' == type:
             db.d3b.insert(info)
-        elif '3c' == type:
+        elif 'd3c' == type:
             db.d3c.insert(info)
-        elif '3d' == type:
+        elif 'd3d' == type:
             db.d3d.insert(info)
-        elif '3e' == type:
+        elif 'd3e' == type:
             db.d3e.insert(info)
-        elif '3f' == type:
+        elif 'd3f' == type:
             db.d3f.insert(info)
-        elif '40' == type:
+        elif 'd40' == type:
             db.d40.insert(info)
-        elif '41' == type:
+        elif 'd41' == type:
             db.d41.insert(info)
-        elif '42' == type:
+        elif 'd42' == type:
             db.d42.insert(info)
-        elif '43' == type:
+        elif 'd43' == type:
             db.d43.insert(info)
-        elif '44' == type:
+        elif 'd44' == type:
             db.d44.insert(info)
-        elif '45' == type:
+        elif 'd45' == type:
             db.d45.insert(info)
-        elif '46' == type:
+        elif 'd46' == type:
             db.d46.insert(info)
-        elif '47' == type:
+        elif 'd47' == type:
             db.d47.insert(info)
-        elif '48' == type:
+        elif 'd48' == type:
             db.d48.insert(info)
-        elif '49' == type:
+        elif 'd49' == type:
             db.d49.insert(info)
-        elif '4a' == type:
+        elif 'd4a' == type:
             db.d4a.insert(info)
-        elif '4b' == type:
+        elif 'd4b' == type:
             db.d4b.insert(info)
-        elif '4c' == type:
+        elif 'd4c' == type:
             db.d4c.insert(info)
-        elif '4d' == type:
+        elif 'd4d' == type:
             db.d4d.insert(info)
-        elif '4e' == type:
+        elif 'd4e' == type:
             db.d4e.insert(info)
-        elif '4f' == type:
+        elif 'd4f' == type:
             db.d4f.insert(info)
-        elif '50' == type:
+        elif 'd50' == type:
             db.d50.insert(info)
-        elif '51' == type:
+        elif 'd51' == type:
             db.d51.insert(info)
-        elif '52' == type:
+        elif 'd52' == type:
             db.d52.insert(info)
-        elif '53' == type:
+        elif 'd53' == type:
             db.d53.insert(info)
-        elif '54' == type:
+        elif 'd54' == type:
             db.d54.insert(info)
-        elif '55' == type:
+        elif 'd55' == type:
             db.d55.insert(info)
-        elif '56' == type:
+        elif 'd56' == type:
             db.d56.insert(info)
-        elif '57' == type:
+        elif 'd57' == type:
             db.d57.insert(info)
-        elif '58' == type:
+        elif 'd58' == type:
             db.d58.insert(info)
-        elif '59' == type:
+        elif 'd59' == type:
             db.d59.insert(info)
-        elif '5a' == type:
+        elif 'd5a' == type:
             db.d5a.insert(info)
-        elif '5b' == type:
+        elif 'd5b' == type:
             db.d5b.insert(info)
-        elif '5c' == type:
+        elif 'd5c' == type:
             db.d5c.insert(info)
-        elif '5d' == type:
+        elif 'd5d' == type:
             db.d5d.insert(info)
-        elif '5e' == type:
+        elif 'd5e' == type:
             db.d5e.insert(info)
-        elif '5f' == type:
+        elif 'd5f' == type:
             db.d5f.insert(info)
-        elif '60' == type:
+        elif 'd60' == type:
             db.d60.insert(info)
-        elif '61' == type:
+        elif 'd61' == type:
             db.d61.insert(info)
-        elif '62' == type:
+        elif 'd62' == type:
             db.d62.insert(info)
-        elif '63' == type:
+        elif 'd63' == type:
             db.d63.insert(info)
-        elif '64' == type:
+        elif 'd64' == type:
             db.d64.insert(info)
-        elif '65' == type:
+        elif 'd65' == type:
             db.d65.insert(info)
-        elif '66' == type:
+        elif 'd66' == type:
             db.d66.insert(info)
-        elif '67' == type:
+        elif 'd67' == type:
             db.d67.insert(info)
-        elif '68' == type:
+        elif 'd68' == type:
             db.d68.insert(info)
-        elif '69' == type:
+        elif 'd69' == type:
             db.d69.insert(info)
-        elif '6a' == type:
+        elif 'd6a' == type:
             db.d6a.insert(info)
-        elif '6b' == type:
+        elif 'd6b' == type:
             db.d6b.insert(info)
-        elif '6c' == type:
+        elif 'd6c' == type:
             db.d6c.insert(info)
-        elif '6d' == type:
+        elif 'd6d' == type:
             db.d6d.insert(info)
-        elif '6e' == type:
+        elif 'd6e' == type:
             db.d6e.insert(info)
-        elif '6f' == type:
+        elif 'd6f' == type:
             db.d6f.insert(info)
-        elif '70' == type:
+        elif 'd70' == type:
             db.d70.insert(info)
-        elif '71' == type:
+        elif 'd71' == type:
             db.d71.insert(info)
-        elif '72' == type:
+        elif 'd72' == type:
             db.d72.insert(info)
-        elif '73' == type:
+        elif 'd73' == type:
             db.d73.insert(info)
-        elif '74' == type:
+        elif 'd74' == type:
             db.d74.insert(info)
-        elif '75' == type:
+        elif 'd75' == type:
             db.d75.insert(info)
-        elif '76' == type:
+        elif 'd76' == type:
             db.d76.insert(info)
-        elif '77' == type:
+        elif 'd77' == type:
             db.d77.insert(info)
-        elif '78' == type:
+        elif 'd78' == type:
             db.d78.insert(info)
-        elif '79' == type:
+        elif 'd79' == type:
             db.d79.insert(info)
-        elif '7a' == type:
+        elif 'd7a' == type:
             db.d7a.insert(info)
-        elif '7b' == type:
+        elif 'd7b' == type:
             db.d7b.insert(info)
-        elif '7c' == type:
+        elif 'd7c' == type:
             db.d7c.insert(info)
-        elif '7d' == type:
+        elif 'd7d' == type:
             db.d7d.insert(info)
-        elif '7e' == type:
+        elif 'd7e' == type:
             db.d7e.insert(info)
-        elif '7f' == type:
+        elif 'd7f' == type:
             db.d7f.insert(info)
-        elif '80' == type:
+        elif 'd80' == type:
             db.d80.insert(info)
-        elif '81' == type:
+        elif 'd81' == type:
             db.d81.insert(info)
-        elif '82' == type:
+        elif 'd82' == type:
             db.d82.insert(info)
-        elif '83' == type:
+        elif 'd83' == type:
             db.d83.insert(info)
-        elif '84' == type:
+        elif 'd84' == type:
             db.d84.insert(info)
-        elif '85' == type:
+        elif 'd85' == type:
             db.d85.insert(info)
-        elif '86' == type:
+        elif 'd86' == type:
             db.d86.insert(info)
-        elif '87' == type:
+        elif 'd87' == type:
             db.d87.insert(info)
-        elif '88' == type:
+        elif 'd88' == type:
             db.d88.insert(info)
-        elif '89' == type:
+        elif 'd89' == type:
             db.d89.insert(info)
-        elif '8a' == type:
+        elif 'd8a' == type:
             db.d8a.insert(info)
-        elif '8b' == type:
+        elif 'd8b' == type:
             db.d8b.insert(info)
-        elif '8c' == type:
+        elif 'd8c' == type:
             db.d8c.insert(info)
-        elif '8d' == type:
+        elif 'd8d' == type:
             db.d8d.insert(info)
-        elif '8e' == type:
+        elif 'd8e' == type:
             db.d8e.insert(info)
-        elif '8f' == type:
+        elif 'd8f' == type:
             db.d8f.insert(info)
-        elif '90' == type:
+        elif 'd90' == type:
             db.d90.insert(info)
-        elif '91' == type:
+        elif 'd91' == type:
             db.d91.insert(info)
-        elif '92' == type:
+        elif 'd92' == type:
             db.d92.insert(info)
-        elif '93' == type:
+        elif 'd93' == type:
             db.d93.insert(info)
-        elif '94' == type:
+        elif 'd94' == type:
             db.d94.insert(info)
-        elif '95' == type:
+        elif 'd95' == type:
             db.d95.insert(info)
-        elif '96' == type:
+        elif 'd96' == type:
             db.d96.insert(info)
-        elif '97' == type:
+        elif 'd97' == type:
             db.d97.insert(info)
-        elif '98' == type:
+        elif 'd98' == type:
             db.d98.insert(info)
-        elif '99' == type:
+        elif 'd99' == type:
             db.d99.insert(info)
-        elif '9a' == type:
+        elif 'd9a' == type:
             db.d9a.insert(info)
-        elif '9b' == type:
+        elif 'd9b' == type:
             db.d9b.insert(info)
-        elif '9c' == type:
+        elif 'd9c' == type:
             db.d9c.insert(info)
-        elif '9d' == type:
+        elif 'd9d' == type:
             db.d9d.insert(info)
-        elif '9e' == type:
+        elif 'd9e' == type:
             db.d9e.insert(info)
-        elif '9f' == type:
+        elif 'd9f' == type:
             db.d9f.insert(info)
         elif 'da0' == type:
             db.da0.insert(info)
@@ -7137,7 +7137,7 @@ def save_data(db, type, info):
             db.ded.insert(info)
         elif 'dee' == type:
             db.dee.insert(info)
-        elif 'def' == type:
+        elif 'sdef' == type:
             db.sdef.insert(info)
         elif 'df0' == type:
             db.df0.insert(info)
@@ -7171,325 +7171,325 @@ def save_data(db, type, info):
             db.dfe.insert(info)
         elif 'dff' == type:
             db.dff.insert(info)
-        elif '00' == type:
+        elif 'e00' == type:
             db.e00.insert(info)
-        elif '01' == type:
+        elif 'e01' == type:
             db.e01.insert(info)
-        elif '02' == type:
+        elif 'e02' == type:
             db.e02.insert(info)
-        elif '03' == type:
+        elif 'e03' == type:
             db.e03.insert(info)
-        elif '04' == type:
+        elif 'e04' == type:
             db.e04.insert(info)
-        elif '05' == type:
+        elif 'e05' == type:
             db.e05.insert(info)
-        elif '06' == type:
+        elif 'e06' == type:
             db.e06.insert(info)
-        elif '07' == type:
+        elif 'e07' == type:
             db.e07.insert(info)
-        elif '08' == type:
+        elif 'e08' == type:
             db.e08.insert(info)
-        elif '09' == type:
+        elif 'e09' == type:
             db.e09.insert(info)
-        elif '0a' == type:
+        elif 'e0a' == type:
             db.e0a.insert(info)
-        elif '0b' == type:
+        elif 'e0b' == type:
             db.e0b.insert(info)
-        elif '0c' == type:
+        elif 'e0c' == type:
             db.e0c.insert(info)
-        elif '0d' == type:
+        elif 'e0d' == type:
             db.e0d.insert(info)
-        elif '0e' == type:
+        elif 'e0e' == type:
             db.e0e.insert(info)
-        elif '0f' == type:
+        elif 'e0f' == type:
             db.e0f.insert(info)
-        elif '10' == type:
+        elif 'e10' == type:
             db.e10.insert(info)
-        elif '11' == type:
+        elif 'e11' == type:
             db.e11.insert(info)
-        elif '12' == type:
+        elif 'e12' == type:
             db.e12.insert(info)
-        elif '13' == type:
+        elif 'e13' == type:
             db.e13.insert(info)
-        elif '14' == type:
+        elif 'e14' == type:
             db.e14.insert(info)
-        elif '15' == type:
+        elif 'e15' == type:
             db.e15.insert(info)
-        elif '16' == type:
+        elif 'e16' == type:
             db.e16.insert(info)
-        elif '17' == type:
+        elif 'e17' == type:
             db.e17.insert(info)
-        elif '18' == type:
+        elif 'e18' == type:
             db.e18.insert(info)
-        elif '19' == type:
+        elif 'e19' == type:
             db.e19.insert(info)
-        elif '1a' == type:
+        elif 'e1a' == type:
             db.e1a.insert(info)
-        elif '1b' == type:
+        elif 'e1b' == type:
             db.e1b.insert(info)
-        elif '1c' == type:
+        elif 'e1c' == type:
             db.e1c.insert(info)
-        elif '1d' == type:
+        elif 'e1d' == type:
             db.e1d.insert(info)
-        elif '1e' == type:
+        elif 'e1e' == type:
             db.e1e.insert(info)
-        elif '1f' == type:
+        elif 'e1f' == type:
             db.e1f.insert(info)
-        elif '20' == type:
+        elif 'e20' == type:
             db.e20.insert(info)
-        elif '21' == type:
+        elif 'e21' == type:
             db.e21.insert(info)
-        elif '22' == type:
+        elif 'e22' == type:
             db.e22.insert(info)
-        elif '23' == type:
+        elif 'e23' == type:
             db.e23.insert(info)
-        elif '24' == type:
+        elif 'e24' == type:
             db.e24.insert(info)
-        elif '25' == type:
+        elif 'e25' == type:
             db.e25.insert(info)
-        elif '26' == type:
+        elif 'e26' == type:
             db.e26.insert(info)
-        elif '27' == type:
+        elif 'e27' == type:
             db.e27.insert(info)
-        elif '28' == type:
+        elif 'e28' == type:
             db.e28.insert(info)
-        elif '29' == type:
+        elif 'e29' == type:
             db.e29.insert(info)
-        elif '2a' == type:
+        elif 'e2a' == type:
             db.e2a.insert(info)
-        elif '2b' == type:
+        elif 'e2b' == type:
             db.e2b.insert(info)
-        elif '2c' == type:
+        elif 'e2c' == type:
             db.e2c.insert(info)
-        elif '2d' == type:
+        elif 'e2d' == type:
             db.e2d.insert(info)
-        elif '2e' == type:
+        elif 'e2e' == type:
             db.e2e.insert(info)
-        elif '2f' == type:
+        elif 'e2f' == type:
             db.e2f.insert(info)
-        elif '30' == type:
+        elif 'e30' == type:
             db.e30.insert(info)
-        elif '31' == type:
+        elif 'e31' == type:
             db.e31.insert(info)
-        elif '32' == type:
+        elif 'e32' == type:
             db.e32.insert(info)
-        elif '33' == type:
+        elif 'e33' == type:
             db.e33.insert(info)
-        elif '34' == type:
+        elif 'e34' == type:
             db.e34.insert(info)
-        elif '35' == type:
+        elif 'e35' == type:
             db.e35.insert(info)
-        elif '36' == type:
+        elif 'e36' == type:
             db.e36.insert(info)
-        elif '37' == type:
+        elif 'e37' == type:
             db.e37.insert(info)
-        elif '38' == type:
+        elif 'e38' == type:
             db.e38.insert(info)
-        elif '39' == type:
+        elif 'e39' == type:
             db.e39.insert(info)
-        elif '3a' == type:
+        elif 'e3a' == type:
             db.e3a.insert(info)
-        elif '3b' == type:
+        elif 'e3b' == type:
             db.e3b.insert(info)
-        elif '3c' == type:
+        elif 'e3c' == type:
             db.e3c.insert(info)
-        elif '3d' == type:
+        elif 'e3d' == type:
             db.e3d.insert(info)
-        elif '3e' == type:
+        elif 'e3e' == type:
             db.e3e.insert(info)
-        elif '3f' == type:
+        elif 'e3f' == type:
             db.e3f.insert(info)
-        elif '40' == type:
+        elif 'e40' == type:
             db.e40.insert(info)
-        elif '41' == type:
+        elif 'e41' == type:
             db.e41.insert(info)
-        elif '42' == type:
+        elif 'e42' == type:
             db.e42.insert(info)
-        elif '43' == type:
+        elif 'e43' == type:
             db.e43.insert(info)
-        elif '44' == type:
+        elif 'e44' == type:
             db.e44.insert(info)
-        elif '45' == type:
+        elif 'e45' == type:
             db.e45.insert(info)
-        elif '46' == type:
+        elif 'e46' == type:
             db.e46.insert(info)
-        elif '47' == type:
+        elif 'e47' == type:
             db.e47.insert(info)
-        elif '48' == type:
+        elif 'e48' == type:
             db.e48.insert(info)
-        elif '49' == type:
+        elif 'e49' == type:
             db.e49.insert(info)
-        elif '4a' == type:
+        elif 'e4a' == type:
             db.e4a.insert(info)
-        elif '4b' == type:
+        elif 'e4b' == type:
             db.e4b.insert(info)
-        elif '4c' == type:
+        elif 'e4c' == type:
             db.e4c.insert(info)
-        elif '4d' == type:
+        elif 'e4d' == type:
             db.e4d.insert(info)
-        elif '4e' == type:
+        elif 'e4e' == type:
             db.e4e.insert(info)
-        elif '4f' == type:
+        elif 'e4f' == type:
             db.e4f.insert(info)
-        elif '50' == type:
+        elif 'e50' == type:
             db.e50.insert(info)
-        elif '51' == type:
+        elif 'e51' == type:
             db.e51.insert(info)
-        elif '52' == type:
+        elif 'e52' == type:
             db.e52.insert(info)
-        elif '53' == type:
+        elif 'e53' == type:
             db.e53.insert(info)
-        elif '54' == type:
+        elif 'e54' == type:
             db.e54.insert(info)
-        elif '55' == type:
+        elif 'e55' == type:
             db.e55.insert(info)
-        elif '56' == type:
+        elif 'e56' == type:
             db.e56.insert(info)
-        elif '57' == type:
+        elif 'e57' == type:
             db.e57.insert(info)
-        elif '58' == type:
+        elif 'e58' == type:
             db.e58.insert(info)
-        elif '59' == type:
+        elif 'e59' == type:
             db.e59.insert(info)
-        elif '5a' == type:
+        elif 'e5a' == type:
             db.e5a.insert(info)
-        elif '5b' == type:
+        elif 'e5b' == type:
             db.e5b.insert(info)
-        elif '5c' == type:
+        elif 'e5c' == type:
             db.e5c.insert(info)
-        elif '5d' == type:
+        elif 'e5d' == type:
             db.e5d.insert(info)
-        elif '5e' == type:
+        elif 'e5e' == type:
             db.e5e.insert(info)
-        elif '5f' == type:
+        elif 'e5f' == type:
             db.e5f.insert(info)
-        elif '60' == type:
+        elif 'e60' == type:
             db.e60.insert(info)
-        elif '61' == type:
+        elif 'e61' == type:
             db.e61.insert(info)
-        elif '62' == type:
+        elif 'e62' == type:
             db.e62.insert(info)
-        elif '63' == type:
+        elif 'e63' == type:
             db.e63.insert(info)
-        elif '64' == type:
+        elif 'e64' == type:
             db.e64.insert(info)
-        elif '65' == type:
+        elif 'e65' == type:
             db.e65.insert(info)
-        elif '66' == type:
+        elif 'e66' == type:
             db.e66.insert(info)
-        elif '67' == type:
+        elif 'e67' == type:
             db.e67.insert(info)
-        elif '68' == type:
+        elif 'e68' == type:
             db.e68.insert(info)
-        elif '69' == type:
+        elif 'e69' == type:
             db.e69.insert(info)
-        elif '6a' == type:
+        elif 'e6a' == type:
             db.e6a.insert(info)
-        elif '6b' == type:
+        elif 'e6b' == type:
             db.e6b.insert(info)
-        elif '6c' == type:
+        elif 'e6c' == type:
             db.e6c.insert(info)
-        elif '6d' == type:
+        elif 'e6d' == type:
             db.e6d.insert(info)
-        elif '6e' == type:
+        elif 'e6e' == type:
             db.e6e.insert(info)
-        elif '6f' == type:
+        elif 'e6f' == type:
             db.e6f.insert(info)
-        elif '70' == type:
+        elif 'e70' == type:
             db.e70.insert(info)
-        elif '71' == type:
+        elif 'e71' == type:
             db.e71.insert(info)
-        elif '72' == type:
+        elif 'e72' == type:
             db.e72.insert(info)
-        elif '73' == type:
+        elif 'e73' == type:
             db.e73.insert(info)
-        elif '74' == type:
+        elif 'e74' == type:
             db.e74.insert(info)
-        elif '75' == type:
+        elif 'e75' == type:
             db.e75.insert(info)
-        elif '76' == type:
+        elif 'e76' == type:
             db.e76.insert(info)
-        elif '77' == type:
+        elif 'e77' == type:
             db.e77.insert(info)
-        elif '78' == type:
+        elif 'e78' == type:
             db.e78.insert(info)
-        elif '79' == type:
+        elif 'e79' == type:
             db.e79.insert(info)
-        elif '7a' == type:
+        elif 'e7a' == type:
             db.e7a.insert(info)
-        elif '7b' == type:
+        elif 'e7b' == type:
             db.e7b.insert(info)
-        elif '7c' == type:
+        elif 'e7c' == type:
             db.e7c.insert(info)
-        elif '7d' == type:
+        elif 'e7d' == type:
             db.e7d.insert(info)
-        elif '7e' == type:
+        elif 'e7e' == type:
             db.e7e.insert(info)
-        elif '7f' == type:
+        elif 'e7f' == type:
             db.e7f.insert(info)
-        elif '80' == type:
+        elif 'e80' == type:
             db.e80.insert(info)
-        elif '81' == type:
+        elif 'e81' == type:
             db.e81.insert(info)
-        elif '82' == type:
+        elif 'e82' == type:
             db.e82.insert(info)
-        elif '83' == type:
+        elif 'e83' == type:
             db.e83.insert(info)
-        elif '84' == type:
+        elif 'e84' == type:
             db.e84.insert(info)
-        elif '85' == type:
+        elif 'e85' == type:
             db.e85.insert(info)
-        elif '86' == type:
+        elif 'e86' == type:
             db.e86.insert(info)
-        elif '87' == type:
+        elif 'e87' == type:
             db.e87.insert(info)
-        elif '88' == type:
+        elif 'e88' == type:
             db.e88.insert(info)
-        elif '89' == type:
+        elif 'e89' == type:
             db.e89.insert(info)
-        elif '8a' == type:
+        elif 'e8a' == type:
             db.e8a.insert(info)
-        elif '8b' == type:
+        elif 'e8b' == type:
             db.e8b.insert(info)
-        elif '8c' == type:
+        elif 'e8c' == type:
             db.e8c.insert(info)
-        elif '8d' == type:
+        elif 'e8d' == type:
             db.e8d.insert(info)
-        elif '8e' == type:
+        elif 'e8e' == type:
             db.e8e.insert(info)
-        elif '8f' == type:
+        elif 'e8f' == type:
             db.e8f.insert(info)
-        elif '90' == type:
+        elif 'e90' == type:
             db.e90.insert(info)
-        elif '91' == type:
+        elif 'e91' == type:
             db.e91.insert(info)
-        elif '92' == type:
+        elif 'e92' == type:
             db.e92.insert(info)
-        elif '93' == type:
+        elif 'e93' == type:
             db.e93.insert(info)
-        elif '94' == type:
+        elif 'e94' == type:
             db.e94.insert(info)
-        elif '95' == type:
+        elif 'e95' == type:
             db.e95.insert(info)
-        elif '96' == type:
+        elif 'e96' == type:
             db.e96.insert(info)
-        elif '97' == type:
+        elif 'e97' == type:
             db.e97.insert(info)
-        elif '98' == type:
+        elif 'e98' == type:
             db.e98.insert(info)
-        elif '99' == type:
+        elif 'e99' == type:
             db.e99.insert(info)
-        elif '9a' == type:
+        elif 'e9a' == type:
             db.e9a.insert(info)
-        elif '9b' == type:
+        elif 'e9b' == type:
             db.e9b.insert(info)
-        elif '9c' == type:
+        elif 'e9c' == type:
             db.e9c.insert(info)
-        elif '9d' == type:
+        elif 'e9d' == type:
             db.e9d.insert(info)
-        elif '9e' == type:
+        elif 'e9e' == type:
             db.e9e.insert(info)
-        elif '9f' == type:
+        elif 'e9f' == type:
             db.e9f.insert(info)
         elif 'ea0' == type:
             db.ea0.insert(info)
@@ -7683,325 +7683,325 @@ def save_data(db, type, info):
             db.efe.insert(info)
         elif 'eff' == type:
             db.eff.insert(info)
-        elif '00' == type:
+        elif 'f00' == type:
             db.f00.insert(info)
-        elif '01' == type:
+        elif 'f01' == type:
             db.f01.insert(info)
-        elif '02' == type:
+        elif 'f02' == type:
             db.f02.insert(info)
-        elif '03' == type:
+        elif 'f03' == type:
             db.f03.insert(info)
-        elif '04' == type:
+        elif 'f04' == type:
             db.f04.insert(info)
-        elif '05' == type:
+        elif 'f05' == type:
             db.f05.insert(info)
-        elif '06' == type:
+        elif 'f06' == type:
             db.f06.insert(info)
-        elif '07' == type:
+        elif 'f07' == type:
             db.f07.insert(info)
-        elif '08' == type:
+        elif 'f08' == type:
             db.f08.insert(info)
-        elif '09' == type:
+        elif 'f09' == type:
             db.f09.insert(info)
-        elif '0a' == type:
+        elif 'f0a' == type:
             db.f0a.insert(info)
-        elif '0b' == type:
+        elif 'f0b' == type:
             db.f0b.insert(info)
-        elif '0c' == type:
+        elif 'f0c' == type:
             db.f0c.insert(info)
-        elif '0d' == type:
+        elif 'f0d' == type:
             db.f0d.insert(info)
-        elif '0e' == type:
+        elif 'f0e' == type:
             db.f0e.insert(info)
-        elif '0f' == type:
+        elif 'f0f' == type:
             db.f0f.insert(info)
-        elif '10' == type:
+        elif 'f10' == type:
             db.f10.insert(info)
-        elif '11' == type:
+        elif 'f11' == type:
             db.f11.insert(info)
-        elif '12' == type:
+        elif 'f12' == type:
             db.f12.insert(info)
-        elif '13' == type:
+        elif 'f13' == type:
             db.f13.insert(info)
-        elif '14' == type:
+        elif 'f14' == type:
             db.f14.insert(info)
-        elif '15' == type:
+        elif 'f15' == type:
             db.f15.insert(info)
-        elif '16' == type:
+        elif 'f16' == type:
             db.f16.insert(info)
-        elif '17' == type:
+        elif 'f17' == type:
             db.f17.insert(info)
-        elif '18' == type:
+        elif 'f18' == type:
             db.f18.insert(info)
-        elif '19' == type:
+        elif 'f19' == type:
             db.f19.insert(info)
-        elif '1a' == type:
+        elif 'f1a' == type:
             db.f1a.insert(info)
-        elif '1b' == type:
+        elif 'f1b' == type:
             db.f1b.insert(info)
-        elif '1c' == type:
+        elif 'f1c' == type:
             db.f1c.insert(info)
-        elif '1d' == type:
+        elif 'f1d' == type:
             db.f1d.insert(info)
-        elif '1e' == type:
+        elif 'f1e' == type:
             db.f1e.insert(info)
-        elif '1f' == type:
+        elif 'f1f' == type:
             db.f1f.insert(info)
-        elif '20' == type:
+        elif 'f20' == type:
             db.f20.insert(info)
-        elif '21' == type:
+        elif 'f21' == type:
             db.f21.insert(info)
-        elif '22' == type:
+        elif 'f22' == type:
             db.f22.insert(info)
-        elif '23' == type:
+        elif 'f23' == type:
             db.f23.insert(info)
-        elif '24' == type:
+        elif 'f24' == type:
             db.f24.insert(info)
-        elif '25' == type:
+        elif 'f25' == type:
             db.f25.insert(info)
-        elif '26' == type:
+        elif 'f26' == type:
             db.f26.insert(info)
-        elif '27' == type:
+        elif 'f27' == type:
             db.f27.insert(info)
-        elif '28' == type:
+        elif 'f28' == type:
             db.f28.insert(info)
-        elif '29' == type:
+        elif 'f29' == type:
             db.f29.insert(info)
-        elif '2a' == type:
+        elif 'f2a' == type:
             db.f2a.insert(info)
-        elif '2b' == type:
+        elif 'f2b' == type:
             db.f2b.insert(info)
-        elif '2c' == type:
+        elif 'f2c' == type:
             db.f2c.insert(info)
-        elif '2d' == type:
+        elif 'f2d' == type:
             db.f2d.insert(info)
-        elif '2e' == type:
+        elif 'f2e' == type:
             db.f2e.insert(info)
-        elif '2f' == type:
+        elif 'f2f' == type:
             db.f2f.insert(info)
-        elif '30' == type:
+        elif 'f30' == type:
             db.f30.insert(info)
-        elif '31' == type:
+        elif 'f31' == type:
             db.f31.insert(info)
-        elif '32' == type:
+        elif 'f32' == type:
             db.f32.insert(info)
-        elif '33' == type:
+        elif 'f33' == type:
             db.f33.insert(info)
-        elif '34' == type:
+        elif 'f34' == type:
             db.f34.insert(info)
-        elif '35' == type:
+        elif 'f35' == type:
             db.f35.insert(info)
-        elif '36' == type:
+        elif 'f36' == type:
             db.f36.insert(info)
-        elif '37' == type:
+        elif 'f37' == type:
             db.f37.insert(info)
-        elif '38' == type:
+        elif 'f38' == type:
             db.f38.insert(info)
-        elif '39' == type:
+        elif 'f39' == type:
             db.f39.insert(info)
-        elif '3a' == type:
+        elif 'f3a' == type:
             db.f3a.insert(info)
-        elif '3b' == type:
+        elif 'f3b' == type:
             db.f3b.insert(info)
-        elif '3c' == type:
+        elif 'f3c' == type:
             db.f3c.insert(info)
-        elif '3d' == type:
+        elif 'f3d' == type:
             db.f3d.insert(info)
-        elif '3e' == type:
+        elif 'f3e' == type:
             db.f3e.insert(info)
-        elif '3f' == type:
+        elif 'f3f' == type:
             db.f3f.insert(info)
-        elif '40' == type:
+        elif 'f40' == type:
             db.f40.insert(info)
-        elif '41' == type:
+        elif 'f41' == type:
             db.f41.insert(info)
-        elif '42' == type:
+        elif 'f42' == type:
             db.f42.insert(info)
-        elif '43' == type:
+        elif 'f43' == type:
             db.f43.insert(info)
-        elif '44' == type:
+        elif 'f44' == type:
             db.f44.insert(info)
-        elif '45' == type:
+        elif 'f45' == type:
             db.f45.insert(info)
-        elif '46' == type:
+        elif 'f46' == type:
             db.f46.insert(info)
-        elif '47' == type:
+        elif 'f47' == type:
             db.f47.insert(info)
-        elif '48' == type:
+        elif 'f48' == type:
             db.f48.insert(info)
-        elif '49' == type:
+        elif 'f49' == type:
             db.f49.insert(info)
-        elif '4a' == type:
+        elif 'f4a' == type:
             db.f4a.insert(info)
-        elif '4b' == type:
+        elif 'f4b' == type:
             db.f4b.insert(info)
-        elif '4c' == type:
+        elif 'f4c' == type:
             db.f4c.insert(info)
-        elif '4d' == type:
+        elif 'f4d' == type:
             db.f4d.insert(info)
-        elif '4e' == type:
+        elif 'f4e' == type:
             db.f4e.insert(info)
-        elif '4f' == type:
+        elif 'f4f' == type:
             db.f4f.insert(info)
-        elif '50' == type:
+        elif 'f50' == type:
             db.f50.insert(info)
-        elif '51' == type:
+        elif 'f51' == type:
             db.f51.insert(info)
-        elif '52' == type:
+        elif 'f52' == type:
             db.f52.insert(info)
-        elif '53' == type:
+        elif 'f53' == type:
             db.f53.insert(info)
-        elif '54' == type:
+        elif 'f54' == type:
             db.f54.insert(info)
-        elif '55' == type:
+        elif 'f55' == type:
             db.f55.insert(info)
-        elif '56' == type:
+        elif 'f56' == type:
             db.f56.insert(info)
-        elif '57' == type:
+        elif 'f57' == type:
             db.f57.insert(info)
-        elif '58' == type:
+        elif 'f58' == type:
             db.f58.insert(info)
-        elif '59' == type:
+        elif 'f59' == type:
             db.f59.insert(info)
-        elif '5a' == type:
+        elif 'f5a' == type:
             db.f5a.insert(info)
-        elif '5b' == type:
+        elif 'f5b' == type:
             db.f5b.insert(info)
-        elif '5c' == type:
+        elif 'f5c' == type:
             db.f5c.insert(info)
-        elif '5d' == type:
+        elif 'f5d' == type:
             db.f5d.insert(info)
-        elif '5e' == type:
+        elif 'f5e' == type:
             db.f5e.insert(info)
-        elif '5f' == type:
+        elif 'f5f' == type:
             db.f5f.insert(info)
-        elif '60' == type:
+        elif 'f60' == type:
             db.f60.insert(info)
-        elif '61' == type:
+        elif 'f61' == type:
             db.f61.insert(info)
-        elif '62' == type:
+        elif 'f62' == type:
             db.f62.insert(info)
-        elif '63' == type:
+        elif 'f63' == type:
             db.f63.insert(info)
-        elif '64' == type:
+        elif 'f64' == type:
             db.f64.insert(info)
-        elif '65' == type:
+        elif 'f65' == type:
             db.f65.insert(info)
-        elif '66' == type:
+        elif 'f66' == type:
             db.f66.insert(info)
-        elif '67' == type:
+        elif 'f67' == type:
             db.f67.insert(info)
-        elif '68' == type:
+        elif 'f68' == type:
             db.f68.insert(info)
-        elif '69' == type:
+        elif 'f69' == type:
             db.f69.insert(info)
-        elif '6a' == type:
+        elif 'f6a' == type:
             db.f6a.insert(info)
-        elif '6b' == type:
+        elif 'f6b' == type:
             db.f6b.insert(info)
-        elif '6c' == type:
+        elif 'f6c' == type:
             db.f6c.insert(info)
-        elif '6d' == type:
+        elif 'f6d' == type:
             db.f6d.insert(info)
-        elif '6e' == type:
+        elif 'f6e' == type:
             db.f6e.insert(info)
-        elif '6f' == type:
+        elif 'f6f' == type:
             db.f6f.insert(info)
-        elif '70' == type:
+        elif 'f70' == type:
             db.f70.insert(info)
-        elif '71' == type:
+        elif 'f71' == type:
             db.f71.insert(info)
-        elif '72' == type:
+        elif 'f72' == type:
             db.f72.insert(info)
-        elif '73' == type:
+        elif 'f73' == type:
             db.f73.insert(info)
-        elif '74' == type:
+        elif 'f74' == type:
             db.f74.insert(info)
-        elif '75' == type:
+        elif 'f75' == type:
             db.f75.insert(info)
-        elif '76' == type:
+        elif 'f76' == type:
             db.f76.insert(info)
-        elif '77' == type:
+        elif 'f77' == type:
             db.f77.insert(info)
-        elif '78' == type:
+        elif 'f78' == type:
             db.f78.insert(info)
-        elif '79' == type:
+        elif 'f79' == type:
             db.f79.insert(info)
-        elif '7a' == type:
+        elif 'f7a' == type:
             db.f7a.insert(info)
-        elif '7b' == type:
+        elif 'f7b' == type:
             db.f7b.insert(info)
-        elif '7c' == type:
+        elif 'f7c' == type:
             db.f7c.insert(info)
-        elif '7d' == type:
+        elif 'f7d' == type:
             db.f7d.insert(info)
-        elif '7e' == type:
+        elif 'f7e' == type:
             db.f7e.insert(info)
-        elif '7f' == type:
+        elif 'f7f' == type:
             db.f7f.insert(info)
-        elif '80' == type:
+        elif 'f80' == type:
             db.f80.insert(info)
-        elif '81' == type:
+        elif 'f81' == type:
             db.f81.insert(info)
-        elif '82' == type:
+        elif 'f82' == type:
             db.f82.insert(info)
-        elif '83' == type:
+        elif 'f83' == type:
             db.f83.insert(info)
-        elif '84' == type:
+        elif 'f84' == type:
             db.f84.insert(info)
-        elif '85' == type:
+        elif 'f85' == type:
             db.f85.insert(info)
-        elif '86' == type:
+        elif 'f86' == type:
             db.f86.insert(info)
-        elif '87' == type:
+        elif 'f87' == type:
             db.f87.insert(info)
-        elif '88' == type:
+        elif 'f88' == type:
             db.f88.insert(info)
-        elif '89' == type:
+        elif 'f89' == type:
             db.f89.insert(info)
-        elif '8a' == type:
+        elif 'f8a' == type:
             db.f8a.insert(info)
-        elif '8b' == type:
+        elif 'f8b' == type:
             db.f8b.insert(info)
-        elif '8c' == type:
+        elif 'f8c' == type:
             db.f8c.insert(info)
-        elif '8d' == type:
+        elif 'f8d' == type:
             db.f8d.insert(info)
-        elif '8e' == type:
+        elif 'f8e' == type:
             db.f8e.insert(info)
-        elif '8f' == type:
+        elif 'f8f' == type:
             db.f8f.insert(info)
-        elif '90' == type:
+        elif 'f90' == type:
             db.f90.insert(info)
-        elif '91' == type:
+        elif 'f91' == type:
             db.f91.insert(info)
-        elif '92' == type:
+        elif 'f92' == type:
             db.f92.insert(info)
-        elif '93' == type:
+        elif 'f93' == type:
             db.f93.insert(info)
-        elif '94' == type:
+        elif 'f94' == type:
             db.f94.insert(info)
-        elif '95' == type:
+        elif 'f95' == type:
             db.f95.insert(info)
-        elif '96' == type:
+        elif 'f96' == type:
             db.f96.insert(info)
-        elif '97' == type:
+        elif 'f97' == type:
             db.f97.insert(info)
-        elif '98' == type:
+        elif 'f98' == type:
             db.f98.insert(info)
-        elif '99' == type:
+        elif 'f99' == type:
             db.f99.insert(info)
-        elif '9a' == type:
+        elif 'f9a' == type:
             db.f9a.insert(info)
-        elif '9b' == type:
+        elif 'f9b' == type:
             db.f9b.insert(info)
-        elif '9c' == type:
+        elif 'f9c' == type:
             db.f9c.insert(info)
-        elif '9d' == type:
+        elif 'f9d' == type:
             db.f9d.insert(info)
-        elif '9e' == type:
+        elif 'f9e' == type:
             db.f9e.insert(info)
-        elif '9f' == type:
+        elif 'f9f' == type:
             db.f9f.insert(info)
         elif 'fa0' == type:
             db.fa0.insert(info)
@@ -8198,5 +8198,4 @@ def save_data(db, type, info):
         else:
             pass
     except Exception as e:
-        #print e
         pass
