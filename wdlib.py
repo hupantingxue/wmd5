@@ -7137,7 +7137,7 @@ def save_data(db, type, info):
             db.ded.insert(info)
         elif 'dee' == type:
             db.dee.insert(info)
-        elif 'sdef' == type:
+        elif 'def' == type:
             db.sdef.insert(info)
         elif 'df0' == type:
             db.df0.insert(info)
